@@ -1,8 +1,8 @@
 ##  Hi there! 👋 I'm Debbie Ntigeli (@Debbie012) 
 
 🌱 **Software QA Engineer | Tester | Quality Assurance Enthusiast**  
-👀 Passionate about innovation in software testing and quality assurance. 
-💡 Always exploring new tools, techniques, and best practices to ensure top-notch software quality. 
+👀 Passionate about innovation in software testing and quality assurance
+💡 Always exploring new tools, techniques, and best practices to ensure top-notch software quality
 
 💞️ **Let’s Collaborate!**  
 I’m open to working on projects that prioritize delivering high-quality end products.  
