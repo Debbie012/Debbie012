@@ -1,16 +1,19 @@
-## Hi there 👋
+##  Hi there! I'm Debbie Ntigeli (@Debbie012) 👋
 
-<!--
-**Debbie012/Debbie012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Software QA Engineer | Tester | Quality Assurance Enthusiast**  
+👀 Passionate about innovation in software testing and quality assurance  
+💡 Always exploring new tools, techniques, and best practices to ensure top-notch software quality  
 
-Here are some ideas to get you started:
+💞️ **Let’s Collaborate!**  
+I’m open to working on projects that prioritize delivering high-quality end products.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Ask Me About:**  
+- Manual & Automated Software Testing  
+- QA Processes & Best Practices  
+- Performance & Functional Testing
+
+📫 **Connect with Me:**  
+@ https://www.linkedin.com/in/debbie-ntigeli 
+
+😄 **Pronouns:** She/Her  
+⚡ **Fun Fact:** I love discovering new testing strategies that make software more reliable! 
